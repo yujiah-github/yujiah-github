@@ -11,7 +11,7 @@
 ### 📚 Tech that I've used at least once
 - <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white"/>
 
-### 📚 What I Experience
+### 📚 What I Experienced
 - ***(2020.9 - 2021.2)*** 교내 동아리 **개발자들** 4.5기 활동
 - ***(2021.2 - 2021.3)*** 온라인 코딩 대외활동 **대학생 코딩캠프** 수료(자바,유닉스 커맨드 라인)
 - ***(2021.4)*** 온라인 코딩 대외활동 **모각코** 수료(파이썬)
