@@ -5,11 +5,17 @@
 
 ### 📚 Stack I'm using is
 - <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white"/>
-- <img src="https://img.shields.io/badge/GitHub-181717?logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/IntellijIDEA-000000?logo=IntellijIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?logo=EclipseIDE&logoColor=white"/> 
+- <img src="https://img.shields.io/badge/GitHub-181717?logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/IntellijIDEA-000000?logo=IntellijIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?logo=EclipseIDE&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=white"/> 
 
 
 ### 📚 Tech that I've used at least once
 - <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white"/>
+
+### 📚 What I Experience
+- ***(2020.9 - 2021.2)*** 교내 동아리 **개발자들** 4.5기 활동
+- ***(2021.2 - 2021.3)*** 온라인 코딩 대외활동 **대학생 코딩캠프** 수료(자바,유닉스 커맨드 라인)
+- ***(2021.4)*** 온라인 코딩 대외활동 **모각코** 수료(파이썬)
+- ***(2021.3 ~)*** 교외 동아리 **J2KB** 3기,4기 멤버
 
 
 ### 📚 How to reach me
