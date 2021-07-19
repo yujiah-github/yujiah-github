@@ -1,7 +1,7 @@
 # 🙇 Yu jiah's Github
 
 ### 🧑‍💻 Welcome to my Blog
-- [yu jiah's Blog](https://velog.io/@cil05265)
+- [yanagi's Blog](https://velog.io/@cil05265)
 
 ### 📚 Stack I'm learning is
 - <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white"/>
