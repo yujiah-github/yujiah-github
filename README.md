@@ -13,7 +13,7 @@
 - <img src="https://img.shields.io/badge/GitHub-181717?logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/IntellijIDEA-000000?logo=IntellijIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?logo=EclipseIDE&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?logo=VisualStudio&logoColor=white"/> 
 
 ### 📚 What I Experienced
-- ***(2020.9 - 2021.2)*** 교내 동아리 **개발자들** 4.5기 활동
+- ***(2020.9 - 2021.2)*** 교내 동아리 **개발자들** 5.5기 활동
 - ***(2021.2 - 2021.3)*** 온라인 코딩 대외활동 **대학생 코딩캠프** 수료(자바,유닉스 커맨드 라인)
 - ***(2021.4)*** 온라인 코딩 대외활동 **모각코** 수료(파이썬)
 - ***(2021.3 ~)*** 교외 동아리 **J2KB** 3기,4기 멤버
