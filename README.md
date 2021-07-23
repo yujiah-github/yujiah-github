@@ -18,7 +18,8 @@
 - ***(2021.4)*** 온라인 코딩 대외활동 **모각코** 수료(파이썬)
 - ***(2021.3 ~)*** 교외 동아리 **J2KB** 3기,4기 멤버
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameyujiah-github)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujiah-github)
 
 
 
