@@ -18,12 +18,10 @@
 - ***(2021.4)*** 온라인 코딩 대외활동 **모각코** 수료(파이썬)
 - ***(2021.3 ~)*** 교외 동아리 **J2KB** 3기,4기 멤버
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujiah-github)
-
-
-
 ### 📚 How to reach me
 - [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/>](https://instagram.com/jay__yah) [<img src="https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=white"/>](https://www.youtube.com/channel/UCv-WSlbb_65GJEdvAWHM2mg) <img src="https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white"/>
 
+
+### 📚 My Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujiah-github)
 
