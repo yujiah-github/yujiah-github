@@ -1,4 +1,4 @@
-# 🙇 Yu jiah's Github
+# 🙇 Yanagi's Github
 
 ### 🧑‍💻 Welcome to my Blog
 - [Yanagi's Blog](https://velog.io/@cil05265)
