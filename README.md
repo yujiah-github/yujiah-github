@@ -1,7 +1,7 @@
 # 🙇 Yanagi's Github
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF3366&height=300&section=header&text=「柳」&fontSize=50&fontColor=181717)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujiah-github&count_bg=%&title_bg=%2355A651&icon=&icon_color=%FF3366&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujiah-github&count_bg=%233B7E08&title_bg=%2355A651&icon=&icon_color=%2313330D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)        
 ### 🧑‍💻 Welcome to my Blog
 - [Yanagi's Blog](https://velog.io/@cil05265)
 
