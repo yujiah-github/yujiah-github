@@ -28,5 +28,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujiah-github&show_icons=true&theme=tokyonight)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujiah-github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<script src="https://gist.github.com/yujiah-github/7c1f64ac1670b9dc6ef788984f3132e4.js"></script>
