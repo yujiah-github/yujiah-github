@@ -15,10 +15,13 @@
 - <img src="https://img.shields.io/badge/GitHub-181717?logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/IntellijIDEA-000000?logo=IntellijIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?logo=EclipseIDE&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?logo=VisualStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Sublime Text-FF9800?logo=Sublime Text&logoColor=white"/> <img src="https://img.shields.io/badge/PhpStorm-000000?logo=PhpStorm&logoColor=white"/>
 
 ### 📚 What I Experienced
-- ***(2020.9 - 2021.2)*** 校内サークル **「Developers」** 5.5期活動
+- ***(2020.9 - 2021.2)*** 校内サークル **「DEVELOPERS」** 5.5期活動
 - ***(2021.2 - 2021.3)*** (オンライン) プログラミング校外活動 **「大学生プログラミングキャンプ」** 修了 **(JAVA、UNIX COMMANDLINE)**
 - ***(2021.4)*** (オンライン) プログラミング校外活動 **「モカッコ」** 修了 **(PYTHON)**
-- ***(2021.3 ~)*** 校外サークル **「J2KB」** 3期、4期活動
+- ***(2021.3 ~)*** 校外サークル **「J2KB」** 3期、4期,5期 MEMBER 活動
+- ***(2021.9 ~)*** 校内サークル **「S.OWL」** 活動
+- ***(2021.10 ~)*** 校外サークル **「J2KB」** 5期 OPERATION CREW 活動
+
 
 ### 📚 How to reach me
 - [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/>](https://instagram.com/jay__yah) [<img src="https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=white"/>](https://www.youtube.com/channel/UCv-WSlbb_65GJEdvAWHM2mg)
