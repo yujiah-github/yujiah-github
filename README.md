@@ -3,7 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF3366&height=300&section=header&text=「柳」&fontSize=50&fontColor=181717)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujiah-github&count_bg=%233B7E08&title_bg=%2355A651&icon=&icon_color=%2313330D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)        
 ### 🧑‍💻 Welcome to my Blog
-- [Yanagi's Blog](https://velog.io/@cil05265)
+- [Yanagi's Blog](https://velog.io/@cil05265)　**(プログラミング)**
+- [nagi's Blog](https://nagilog.tistory.com/) **(就職･語学など日本での生活)**
 
 ### 📚 Stack I'm learning is
 - <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=Laravel&logoColor=white"/>
