@@ -30,7 +30,6 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujiah-github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  ### 📚 My Algortihm Stat
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cil05265&height=100)](https://solved.ac/cil05265)
- 
+![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cil05265&height=100)
  
