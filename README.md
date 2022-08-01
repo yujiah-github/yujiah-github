@@ -9,15 +9,16 @@
 ### 📚 What I Experienced in Programming
 - ***(2021.02 - 2021.03)*** (オンライン) プログラミング校外活動 **「大学生プログラミングキャンプ」** 修了 **(JAVA、UNIX COMMANDLINE)**
 - ***(2021.04)*** (オンライン) プログラミング校外活動 **「モカッコ」** 修了 **(PYTHON)**
-- ***(2021.03 ~)*** 校外サークル **「J2KB」** 3期、4期、5期、6期 MEMBER 活動 
+- ***(2021.03 ~)*** 校外サークル **「J2KB」** 3期ー7期 MEMBER 活動 
 - ***(2021.09 ~)*** 校内サークル **「S.OWL」** 活動
-- ***(2021.10 ~)*** 校外サークル **「J2KB」** 5期、6期 OPERATION CREW 活動
+- ***(2021.10 ~)*** 校外サークル **「J2KB」** 5期ー７期 OPERATION CREW 活動
 - ***(2022.02 ~)*** プロジェクト **「MOAMOA」** に参加
 
 ### 📚 Certificate What I Obtained
-- ***(2019.10)*** **「TOEIC」** 920 取得
-- ***(2021.07)*** **「JLPT」** N2 取得
-- ***(2021.12)*** **「JLPT」** N1 取得
+- ***(2019.10)*** **「TOEIC」（英語）** 920点 取得
+- ***(2021.07)*** **「JLPT」（日本語）** N2(上級) 取得
+- ***(2021.12)*** **「JLPT」（日本語）** N1(最上級) 取得
+- ***(2022.07)*** **「HSK」（中国語）** 5級(上級) 取得
 
 ### 📚 Awards What I Obtained
 - ***(2022.04)*** プロジェクト **「MOAMOA」** で **「銀賞」** 受賞
@@ -25,11 +26,7 @@
 ### 📚 How to reach me
 - [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/>](https://instagram.com/jay__yah) [<img src="https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=white"/>](https://www.youtube.com/channel/UCv-WSlbb_65GJEdvAWHM2mg)
 
-### 📚 My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujiah-github&show_icons=true&theme=tokyonight)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujiah-github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
- ### 📚 My Algortihm Stat
+ ### 📚 My Algortihm Stats
 ![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cil05265&height=100)
  
