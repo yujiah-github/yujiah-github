@@ -26,6 +26,7 @@
 
 ### 📚 Awards What I Obtained
 - ***(2022.04)*** プロジェクト **「MOAMOA」** で **「銀賞」** 受賞
+- ***(2022.11)*** プロジェクト **「MEDIGER」** で **「銅賞」** 受賞
 
 ### 📚 How to reach me
 - [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/>](https://instagram.com/jay__yah) [<img src="https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=white"/>](https://www.youtube.com/channel/UCv-WSlbb_65GJEdvAWHM2mg)
